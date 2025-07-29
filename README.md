@@ -24,4 +24,5 @@ This project demonstrates the skills learned during the NERD Dev Onboarding Spri
 - Cursor IDE setup and usage
 - Basic web development
 - AI-assisted coding
-- Code formatting and documentation#Updates README
+- Code formatting and documentation
+- Updated from GitHub web interface
