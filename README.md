@@ -25,4 +25,4 @@ This project demonstrates the skills learned during the NERD Dev Onboarding Spri
 - Basic web development
 - AI-assisted coding
 - Code formatting and documentation
-- Updated from GitHub web interface
+- Updated from GitHub web interfac
